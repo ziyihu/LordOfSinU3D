@@ -1,0 +1,8 @@
+1001,boybasic,icon_zhu,Warrior,Basic,Basic,0,30
+1002,boyskill1,icon_up,Warrior,Skill,One,5,30
+1003,boyskill2,iocn_ho,Warrior,Skill,Two,8,40
+1004,boyskill3,iocn_yi,Warrior,Skill,Three,10,50
+2001,girlbasic,icon_zhu,FemaleAssassin,Basic,Basic,0,30
+2002,girlskill1,icon_li,FemaleAssassin,Skill,One,5,35
+2003,girlskill2,iocn_fo,FemaleAssassin,Skill,Two,8,40
+2004,girlskill3,iocn_ho,FemaleAssassin,Skill,Three,13,50
